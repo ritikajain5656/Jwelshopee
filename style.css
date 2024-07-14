@@ -93,6 +93,13 @@
           padding: 10px;
           text-align: center;
         }
+
+        /* Center "Our Collection" heading */
+        section#products h2 {
+          color: #333;
+          text-align: center;
+          margin-top: 40px; /* Adjust the top margin for spacing */
+        }
     </style>
 </head>
 <body>
